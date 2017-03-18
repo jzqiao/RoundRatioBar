@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundRatioBar">
+        <attr name="paint_color" format="color"/>
+        <attr name="bottom_color" format="color"/>
+        <attr name="paint_width" format="dimension"/>
+        <attr name="round_radius" format="dimension"/>
+        <attr name="title_text" format="string"/>
+        <attr name="value_text" format="string"/>
+        <attr name="rotate_angle" format="integer"/>
+        <attr name="start_angle" format="integer"/>
+        <attr name="text_color" format="color"/>
+    </declare-styleable>
+
+</resources>
